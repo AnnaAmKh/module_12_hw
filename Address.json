@@ -1,0 +1,17 @@
+{
+    "Anna Amelina": {
+        "name": "Anna Amelina",
+        "phones": [
+            "1234567890",
+            "9876543210"
+        ],
+        "birthday": "1995-05-02"
+    },
+    "Jane Amelina": {
+        "name": "Jane Amelina",
+        "phones": [
+            "1112223333"
+        ],
+        "birthday": "1994-12-23"
+    }
+}
